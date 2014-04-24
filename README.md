@@ -7,6 +7,12 @@ This assumes each employee is being paid the same.
 
 **I made this because we kept forgetting the calculation for the business to pay the payroll deductions**
 
+### Running
+
+When you first run the app, it tells you that it is not a verified app and that it was downloaded from the web. That's fine. It just means you got it from a website and not through the AppStore.
+
+If you are still having issues running it. Right click on the app and choose "Open" from the menu. This is like saying, *"Just open this B already and I know what I am doing."*
+
 ### Steps
 
 * Get the CPP deductions the employee made
