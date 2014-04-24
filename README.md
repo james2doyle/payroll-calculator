@@ -5,6 +5,8 @@ A simple applescript app to calculate the amount of payroll deductions for a bus
 
 This assumes each employee is being paid the same.
 
+**I made this because we kept forgetting the calculation for the business to pay the payroll deductions**
+
 ### Steps
 
 * Get the CPP deductions the employee made
@@ -12,3 +14,16 @@ This assumes each employee is being paid the same.
 * Enter the number of employees
 * Show the total
 * Copy the end total to the clipboard. Allow opening the CRA site to pay the deduction
+
+### Compiling to a .app file.
+
+* [Download this file](https://github.com/james2doyle/payroll-calculator/archive/master.zip)
+* Open it with the AppleScript Editor (should be default)
+* Go to File > Export...
+* Choose a location for the .app file to live (I suggest the Applications folder)
+* Choose "Application" as the File Format
+* Click Save
+
+Now you can double click the app and run it.
+
+![screenshot](https://raw.githubusercontent.com/james2doyle/payroll-calculator/master/screenshot.png)
